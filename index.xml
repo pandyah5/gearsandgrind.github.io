@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gears and Grind: HPs Engineering Expedition</title>
+    <link>https://gearsandgrind.github.io/</link>
+    <description>Recent content on Gears and Grind: HPs Engineering Expedition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Feb 2024 20:59:52 -0500</lastBuildDate>
+    <atom:link href="https://gearsandgrind.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linuxpackage</title>
+      <link>https://gearsandgrind.github.io/post/linuxpackage/</link>
+      <pubDate>Wed, 21 Feb 2024 20:59:52 -0500</pubDate>
+      <guid>https://gearsandgrind.github.io/post/linuxpackage/</guid>
+      <description>What is a package manager and how does it work?&#xA;It seems like you&amp;rsquo;re referring to a package manager used in Linux distributions. A package manager is a tool used in Linux systems to install, remove, update, and manage software packages. One of the popular package managers used in various Linux distributions is called &amp;ldquo;apt&amp;rdquo; (Advanced Package Tool), which is used in Debian-based distributions like Ubuntu.&#xA;Here&amp;rsquo;s a brief overview of how it works:</description>
+    </item>
+  </channel>
+</rss>
